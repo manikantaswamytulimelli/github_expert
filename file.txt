@@ -5,11 +5,17 @@ how are you
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 that goofd to hear why again rebase rebase2
 =======
 
 
 that goofd to hear why again rebase rebase2 rebase5
+=======
+
+
+that goofd to hear why again rebase rebase2 rebase5 rebase 6 
+
 
 
 
