@@ -1,6 +1,0 @@
-my webapp project:
-  stage: build
-  image: node
-  script:
-    -npm install express
-    -node server.js
